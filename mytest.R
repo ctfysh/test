@@ -1,5 +1,15 @@
-plot(1:5)
-summary(1:5)
-(a=1)
+install.packages("ggplot2")
+install.packages("reshape2")
+install.packages("plyr")
+install.packages("devtools")
+install.packages("ggmap")
+install.packages("grid")
+install.packages("gridExtra")
+install.packages("lattice")
+install.packages("latticeExtra")
+install.packages("knitr")
+
+
+
 
 
