@@ -8,7 +8,9 @@ install.packages("gridExtra")
 install.packages("lattice")
 install.packages("latticeExtra")
 install.packages("knitr")
-
+install.packages("animation")
+install.packages("e1071")
+install.packages("rpart")
 
 
 
