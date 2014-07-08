@@ -11,7 +11,7 @@ install.packages("knitr")
 install.packages("animation")
 install.packages("e1071")
 install.packages("rpart")
-install.packages("Rcmdr")
+
 
 
 
